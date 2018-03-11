@@ -8,3 +8,7 @@ Image compression using Variational Autoencoder and Generative Adversarial Netwo
    * VAE.py: A class for variational autoencoder is defined which will be used for training and evaluation purpose.
    * train.py: This is the function used for training the autoencoder. In the line no.6, equate x to the numpy data matrix of CIFAR10.
 * For instructions on calling the function, please look at comments present inside the function.
+
+### Dependencies
+
+* [tensorflow](https://www.tensorflow.org/) 1.3 or later
